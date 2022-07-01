@@ -1,1 +1,1 @@
-This directory contains the new Division used (96/2/2) with the same data as the "Original Model with new Data". The notebook contains full generalization of the labels, execution of the model, full analysis ofthe predictions and top 3 of prediction for the Sintetic Data
+This directory contains the new Division used (96/2/2) with the same data as the "Original Model with new Data". The notebook contains full generalization of the labels, execution of the model, full analysis of the predictions and top 3 of prediction for the Sintetic Data
